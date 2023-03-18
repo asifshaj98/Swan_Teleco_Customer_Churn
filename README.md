@@ -1,4 +1,4 @@
-# Swan_Teleco_Customer_Churn
+# Customer_Churn Analysis
 
 File Name and Description :
 0_EDA - This file containes all the relevant EDA of the dataset
